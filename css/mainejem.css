@@ -1,0 +1,19 @@
+/* unidad de medida relativa REM */
+/* 1rem = 16px */
+ha{
+    font-size: 1rem;
+}
+
+/* unidad de medida relativa EM */
+
+div{
+    font-size: 40px;
+}
+
+div h2{
+        font-size: 1em;
+}
+
+
+
+
